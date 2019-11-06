@@ -6,7 +6,7 @@ Instructions:
 
  - Run
  - Click configure
- - Put your account id, must be a number like osu.ppy.sh/users/*4504101*
+ - Put your account id, must be a number like osu.ppy.sh/users/__4504101__
  - Save config
  - Press start and enjoy.
  
