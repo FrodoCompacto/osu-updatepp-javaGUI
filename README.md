@@ -14,6 +14,6 @@ Instructions:
  
 ### Troubleshooting:
 
-No exception handling has been done, and no validation has been done on your account id, so as long as you just enter the id number, it will be fine.
+No exception handling has been done, and no validation has been done on your account id, so as long as you just enter a valid id, it will be fine.
 
 
